@@ -1,3 +1,14 @@
+## 0.3.5 (2026-08-04)
+
+### Features
+
+* **nixpkgs-vet --version** by @dtomvan (#158)
+* **nixpkgs-vet --version (#158)** by @dtomvan (#158)
+
+### Fixes
+
+* **remove OSC 8 hyperlinks (#241)** by @mdaniels5757 (#241)
+
 ## 0.3.4 (2026-07-01)
 
 ### Features
